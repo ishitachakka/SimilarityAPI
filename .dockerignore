@@ -1,0 +1,11 @@
+.idea/
+.git/
+node_modules
+*.log
+.env.local
+.env
+.venv
+test/
+logs/
+build.bat
+build.sh
